@@ -120,6 +120,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[PDF Mavericks] 40+ free browser-based PDF tools — compress, merge, split, sign, watermark, redact, OCR, convert. All processing via WebAssembly (pdf-lib + PDF.js); files never leave the device.](https://pdfmavericks.com/)
 - [ConvertiZen](https://convertizen.netlify.app) - Privacy-friendly document converter (PDF, Word, Excel, images) running entirely in the browser via WebAssembly. No file uploads, no server processing.
+- [hushvert](https://hushvert.com) - Privacy-first file converter (images incl. HEIC/JPEG XL, PDF page operations, archives, audio, small video) running entirely in the browser via WebAssembly. No file uploads, no server processing.
 
 ### Machine Learning
 
