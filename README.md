@@ -119,6 +119,9 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [[Vizua] Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all powered by WebAssembly; no server uploads.](https://vizua.io/)
 
 - [[PDF Mavericks] 40+ free browser-based PDF tools — compress, merge, split, sign, watermark, redact, OCR, convert. All processing via WebAssembly (pdf-lib + PDF.js); files never leave the device.](https://pdfmavericks.com/)
+
+- [[Slay PDF] Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs. Runs in-browser with WebAssembly-powered PDF workflows; files stay on the device.](https://slaypdf.com/)
+
 - [ConvertiZen](https://convertizen.netlify.app) - Privacy-friendly document converter (PDF, Word, Excel, images) running entirely in the browser via WebAssembly. No file uploads, no server processing.
 
 ### Machine Learning
